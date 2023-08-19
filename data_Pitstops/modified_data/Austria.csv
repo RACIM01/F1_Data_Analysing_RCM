@@ -1,0 +1,45 @@
+pitstopId,Team,Driver,Time,Lap,constructorId,team,driverId,number,code,surname,Country
+33,Alfa Romeo,Zhou,5.36,8,51,Alfa Romeo,855,24,ZHO,Zhou,Austria
+23,Alfa Romeo,Zhou,3.0,38,51,Alfa Romeo,855,24,ZHO,Zhou,Austria
+44,Alfa Romeo,Bottas,12.44,21,51,Alfa Romeo,822,77,BOT,Bottas,Austria
+19,Alfa Romeo,Bottas,2.81,40,51,Alfa Romeo,822,77,BOT,Bottas,Austria
+2,AlphaTauri,de Vries,2.28,37,213,AlphaTauri,856,21,DEV,de Vries,Austria
+3,AlphaTauri,de Vries,2.31,12,213,AlphaTauri,856,21,DEV,de Vries,Austria
+12,AlphaTauri,Tsunoda,2.6,43,213,AlphaTauri,852,22,TSU,Tsunoda,Austria
+36,AlphaTauri,Tsunoda,8.47,23,213,AlphaTauri,852,22,TSU,Tsunoda,Austria
+41,AlphaTauri,Tsunoda,10.27,1,213,AlphaTauri,852,22,TSU,Tsunoda,Austria
+13,Alpine,Ocon,2.61,14,214,Alpine,839,31,OCO,Ocon,Austria
+10,Alpine,Gasly,2.54,14,214,Alpine,842,10,GAS,Gasly,Austria
+43,Alpine,Ocon,11.34,40,214,Alpine,839,31,OCO,Ocon,Austria
+39,Alpine,Gasly,9.25,44,214,Alpine,842,10,GAS,Gasly,Austria
+11,Aston Martin,Alonso,2.55,44,117,Aston Martin,4,14,ALO,Alonso,Austria
+17,Aston Martin,Alonso,2.74,15,117,Aston Martin,4,14,ALO,Alonso,Austria
+21,Aston Martin,Stroll,2.89,15,117,Aston Martin,840,18,STR,Stroll,Austria
+15,Aston Martin,Stroll,2.69,54,117,Aston Martin,840,18,STR,Stroll,Austria
+16,Aston Martin,Stroll,2.72,36,117,Aston Martin,840,18,STR,Stroll,Austria
+31,Ferrari,Leclerc,4.46,15,6,Ferrari,844,16,LEC,Leclerc,Austria
+32,Ferrari,Sainz,4.56,15,6,Ferrari,832,55,SAI,Sainz,Austria
+40,Ferrari,Sainz,9.4,45,6,Ferrari,832,55,SAI,Sainz,Austria
+7,Ferrari,Leclerc,2.4,47,6,Ferrari,844,16,LEC,Leclerc,Austria
+34,Haas,Magnussen,6.44,2,210,Haas,825,20,MAG,Magnussen,Austria
+25,Haas,Hulkenberg,3.1,11,210,Haas,807,27,HUL,Hulkenberg,Austria
+26,Haas,Magnussen,3.1,34,210,Haas,825,20,MAG,Magnussen,Austria
+35,Haas,Magnussen,7.15,1,210,Haas,825,20,MAG,Magnussen,Austria
+1,McLaren,Norris,2.1,14,1,McLaren,846,4,NOR,Norris,Austria
+28,McLaren,Piastri,3.14,14,1,McLaren,857,81,PIA,Piastri,Austria
+27,McLaren,Norris,3.12,41,1,McLaren,846,4,NOR,Norris,Austria
+42,McLaren,Piastri,10.61,22,1,McLaren,857,81,PIA,Piastri,Austria
+24,McLaren,Piastri,3.08,41,1,McLaren,857,81,PIA,Piastri,Austria
+20,Mercedes,Russell,2.87,41,131,Mercedes,847,63,RUS,Russell,Austria
+30,Mercedes,Russell,3.29,14,131,Mercedes,847,63,RUS,Russell,Austria
+22,Mercedes,Hamilton,2.91,14,131,Mercedes,1,44,HAM,Hamilton,Austria
+38,Mercedes,Hamilton,8.94,42,131,Mercedes,1,44,HAM,Hamilton,Austria
+14,Red Bull,Perez,2.66,25,9,Red Bull,815,11,PER,Perez,Austria
+9,Red Bull,Perez,2.46,50,9,Red Bull,815,11,PER,Perez,Austria
+6,Red Bull,Verstappen,2.38,69,9,Red Bull,830,33,VER,Verstappen,Austria
+5,Red Bull,Verstappen,2.33,49,9,Red Bull,830,33,VER,Verstappen,Austria
+4,Red Bull,Verstappen,2.32,24,9,Red Bull,830,33,VER,Verstappen,Austria
+29,Williams,Sargeant,3.21,14,3,Williams,858,2,SAR,Sargeant,Austria
+8,Williams,Sargeant,2.45,43,3,Williams,858,2,SAR,Sargeant,Austria
+37,Williams,Albon,8.86,41,3,Williams,848,23,ALB,Albon,Austria
+18,Williams,Albon,2.75,14,3,Williams,848,23,ALB,Albon,Austria

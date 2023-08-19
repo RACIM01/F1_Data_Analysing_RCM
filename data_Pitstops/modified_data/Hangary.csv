@@ -1,0 +1,37 @@
+pitstopId,Team,Driver,Time,Lap,constructorId,team,driverId,number,code,surname,Country
+36,Alfa Romeo,Zhou,9.74,10,51,Alfa Romeo,855,24,ZHO,Zhou,Hangary
+30,Alfa Romeo,Bottas,3.9,40,51,Alfa Romeo,822,77,BOT,Bottas,Hangary
+25,Alfa Romeo,Bottas,3.07,9,51,Alfa Romeo,822,77,BOT,Bottas,Hangary
+28,Alfa Romeo,Zhou,3.6,38,51,Alfa Romeo,855,24,ZHO,Zhou,Hangary
+23,AlphaTauri,Ricciardo,2.95,29,213,AlphaTauri,817,3,RIC,Ricciardo,Hangary
+9,AlphaTauri,Ricciardo,2.5,18,213,AlphaTauri,817,3,RIC,Ricciardo,Hangary
+34,AlphaTauri,Tsunoda,7.37,9,213,AlphaTauri,852,22,TSU,Tsunoda,Hangary
+7,AlphaTauri,Tsunoda,2.37,44,213,AlphaTauri,852,22,TSU,Tsunoda,Hangary
+33,Aston Martin,Alonso,4.71,43,117,Aston Martin,4,14,ALO,Alonso,Hangary
+27,Aston Martin,Alonso,3.42,20,117,Aston Martin,4,14,ALO,Alonso,Hangary
+10,Aston Martin,Stroll,2.61,9,117,Aston Martin,840,18,STR,Stroll,Hangary
+26,Aston Martin,Stroll,3.26,34,117,Aston Martin,840,18,STR,Stroll,Hangary
+5,Ferrari,Leclerc,2.27,43,6,Ferrari,844,16,LEC,Leclerc,Hangary
+12,Ferrari,Sainz,2.71,44,6,Ferrari,832,55,SAI,Sainz,Hangary
+3,Ferrari,Sainz,2.14,15,6,Ferrari,832,55,SAI,Sainz,Hangary
+35,Ferrari,Leclerc,9.46,17,6,Ferrari,844,16,LEC,Leclerc,Hangary
+21,Haas,Magnussen,2.92,41,210,Haas,825,20,MAG,Magnussen,Hangary
+31,Haas,Hulkenberg,3.97,16,210,Haas,807,27,HUL,Hulkenberg,Hangary
+13,Haas,Hulkenberg,2.73,38,210,Haas,807,27,HUL,Hulkenberg,Hangary
+29,Haas,Magnussen,3.75,14,210,Haas,825,20,MAG,Magnussen,Hangary
+2,McLaren,Piastri,2.01,18,1,McLaren,857,81,PIA,Piastri,Hangary
+19,McLaren,Piastri,2.89,42,1,McLaren,857,81,PIA,Piastri,Hangary
+4,McLaren,Norris,2.15,44,1,McLaren,846,4,NOR,Norris,Hangary
+6,McLaren,Norris,2.32,17,1,McLaren,846,4,NOR,Norris,Hangary
+14,Mercedes,Russell,2.76,46,131,Mercedes,847,63,RUS,Russell,Hangary
+20,Mercedes,Russell,2.91,28,131,Mercedes,847,63,RUS,Russell,Hangary
+17,Mercedes,Hamilton,2.83,49,131,Mercedes,1,44,HAM,Hamilton,Hangary
+18,Mercedes,Hamilton,2.85,16,131,Mercedes,1,44,HAM,Hamilton,Hangary
+8,Red Bull,Verstappen,2.38,23,9,Red Bull,830,33,VER,Verstappen,Hangary
+15,Red Bull,Perez,2.8,24,9,Red Bull,815,11,PER,Perez,Hangary
+11,Red Bull,Verstappen,2.64,51,9,Red Bull,830,33,VER,Verstappen,Hangary
+1,Red Bull,Perez,1.98,42,9,Red Bull,815,11,PER,Perez,Hangary
+16,Williams,Albon,2.82,8,3,Williams,848,23,ALB,Albon,Hangary
+22,Williams,Albon,2.94,31,3,Williams,848,23,ALB,Albon,Hangary
+24,Williams,Sargeant,2.96,34,3,Williams,858,2,SAR,Sargeant,Hangary
+32,Williams,Sargeant,4.58,13,3,Williams,858,2,SAR,Sargeant,Hangary

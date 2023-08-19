@@ -1,0 +1,24 @@
+pitstopId,Team,Driver,Time,Lap,constructorId,team,driverId,number,code,surname,Country
+20,Alfa Romeo,Zhou,4.21,11,51,Alfa Romeo,855,24,ZHO,Zhou,Azerbaijan
+7,Alfa Romeo,Bottas,2.68,34,51,Alfa Romeo,822,77,BOT,Bottas,Azerbaijan
+11,Alfa Romeo,Bottas,2.86,6,51,Alfa Romeo,822,77,BOT,Bottas,Azerbaijan
+19,Alfa Romeo,Bottas,3.87,12,51,Alfa Romeo,822,77,BOT,Bottas,Azerbaijan
+4,AlphaTauri,Tsunoda,2.55,8,213,AlphaTauri,852,22,TSU,Tsunoda,Azerbaijan
+5,Alpine,Gasly,2.56,5,214,Alpine,842,10,GAS,Gasly,Azerbaijan
+16,Alpine,Gasly,3.4,23,214,Alpine,842,10,GAS,Gasly,Azerbaijan
+8,Alpine,Ocon,2.74,50,214,Alpine,839,31,OCO,Ocon,Azerbaijan
+21,Aston Martin,Alonso,4.74,11,117,Aston Martin,4,14,ALO,Alonso,Azerbaijan
+17,Aston Martin,Stroll,3.57,11,117,Aston Martin,840,18,STR,Stroll,Azerbaijan
+3,Ferrari,Leclerc,2.49,11,6,Ferrari,844,16,LEC,Leclerc,Azerbaijan
+13,Ferrari,Sainz,2.96,11,6,Ferrari,832,55,SAI,Sainz,Azerbaijan
+23,Haas,Magnussen,13.12,10,210,Haas,825,20,MAG,Magnussen,Azerbaijan
+22,Haas,Hulkenberg,6.47,49,210,Haas,807,27,HUL,Hulkenberg,Azerbaijan
+2,McLaren,Norris,2.35,9,1,McLaren,846,4,NOR,Norris,Azerbaijan
+14,McLaren,Piastri,3.02,8,1,McLaren,857,81,PIA,Piastri,Azerbaijan
+9,Mercedes,Russell,2.79,11,131,Mercedes,847,63,RUS,Russell,Azerbaijan
+6,Mercedes,Hamilton,2.68,9,131,Mercedes,1,44,HAM,Hamilton,Azerbaijan
+18,Mercedes,Russell,3.73,49,131,Mercedes,847,63,RUS,Russell,Azerbaijan
+12,Red Bull,Verstappen,2.92,10,9,Red Bull,830,33,VER,Verstappen,Azerbaijan
+1,Red Bull,Perez,2.3,11,9,Red Bull,815,11,PER,Perez,Azerbaijan
+10,Williams,Sargeant,2.81,8,3,Williams,858,2,SAR,Sargeant,Azerbaijan
+15,Williams,Albon,3.05,7,3,Williams,848,23,ALB,Albon,Azerbaijan

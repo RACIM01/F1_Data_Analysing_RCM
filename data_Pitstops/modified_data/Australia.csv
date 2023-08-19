@@ -1,0 +1,16 @@
+pitstopId,Team,Driver,Time,Lap,constructorId,team,driverId,number,code,surname,Country
+9,Alfa Romeo,Zhou,3.37,1,51,Alfa Romeo,855,24,ZHO,Zhou,Australia
+16,Alfa Romeo,Zhou,6.9,54,51,Alfa Romeo,855,24,ZHO,Zhou,Australia
+11,Alfa Romeo,Bottas,3.65,1,51,Alfa Romeo,822,77,BOT,Bottas,Australia
+14,Alfa Romeo,Bottas,4.31,53,51,Alfa Romeo,822,77,BOT,Bottas,Australia
+8,AlphaTauri,Tsunoda,2.99,54,213,AlphaTauri,852,22,TSU,Tsunoda,Australia
+3,Alpine,Ocon,2.65,1,214,Alpine,839,31,OCO,Ocon,Australia
+4,Ferrari,Sainz,2.71,7,6,Ferrari,832,55,SAI,Sainz,Australia
+15,Haas,Magnussen,5.48,7,210,Haas,825,20,MAG,Magnussen,Australia
+13,McLaren,Piastri,3.96,54,1,McLaren,857,81,PIA,Piastri,Australia
+12,Mercedes,Russell,3.69,7,131,Mercedes,847,63,RUS,Russell,Australia
+1,Red Bull,Perez,2.11,1,9,Red Bull,815,11,PER,Perez,Australia
+2,Red Bull,Perez,2.62,2,9,Red Bull,815,11,PER,Perez,Australia
+5,Williams,Sargeant,2.93,1,3,Williams,858,2,SAR,Sargeant,Australia
+7,Williams,Sargeant,2.98,2,3,Williams,858,2,SAR,Sargeant,Australia
+10,Williams,Sargeant,3.63,36,3,Williams,858,2,SAR,Sargeant,Australia

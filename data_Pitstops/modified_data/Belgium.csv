@@ -1,0 +1,38 @@
+pitstopId,Team,Driver,Time,Lap,constructorId,team,driverId,number,code,surname,Country
+31,Alfa Romeo,Zhou,3.88,7,51,Alfa Romeo,855,24,ZHO,Zhou,Belgium
+29,Alfa Romeo,Zhou,3.42,25,51,Alfa Romeo,855,24,ZHO,Zhou,Belgium
+26,Alfa Romeo,Bottas,3.24,24,51,Alfa Romeo,822,77,BOT,Bottas,Belgium
+22,Alfa Romeo,Bottas,3.09,6,51,Alfa Romeo,822,77,BOT,Bottas,Belgium
+10,AlphaTauri,Ricciardo,2.56,22,213,AlphaTauri,817,3,RIC,Ricciardo,Belgium
+3,AlphaTauri,Tsunoda,2.29,9,213,AlphaTauri,852,22,TSU,Tsunoda,Belgium
+8,AlphaTauri,Tsunoda,2.49,24,213,AlphaTauri,852,22,TSU,Tsunoda,Belgium
+4,AlphaTauri,Ricciardo,2.35,5,213,AlphaTauri,817,3,RIC,Ricciardo,Belgium
+36,Alpine,Gasly,5.01,23,214,Alpine,842,10,GAS,Gasly,Belgium
+15,Alpine,Ocon,2.76,25,214,Alpine,839,31,OCO,Ocon,Belgium
+7,Alpine,Ocon,2.45,6,214,Alpine,839,31,OCO,Ocon,Belgium
+6,Aston Martin,Alonso,2.42,10,117,Aston Martin,4,14,ALO,Alonso,Belgium
+28,Aston Martin,Alonso,3.33,29,117,Aston Martin,4,14,ALO,Alonso,Belgium
+33,Aston Martin,Stroll,4.36,20,117,Aston Martin,840,18,STR,Stroll,Belgium
+1,Ferrari,Leclerc,2.19,13,6,Ferrari,844,16,LEC,Leclerc,Belgium
+11,Ferrari,Sainz,2.65,7,6,Ferrari,832,55,SAI,Sainz,Belgium
+12,Ferrari,Leclerc,2.74,28,6,Ferrari,844,16,LEC,Leclerc,Belgium
+37,Haas,Hulkenberg,5.11,24,210,Haas,807,27,HUL,Hulkenberg,Belgium
+32,Haas,Hulkenberg,3.99,12,210,Haas,807,27,HUL,Hulkenberg,Belgium
+23,Haas,Magnussen,3.11,25,210,Haas,825,20,MAG,Magnussen,Belgium
+21,Haas,Magnussen,3.02,5,210,Haas,825,20,MAG,Magnussen,Belgium
+34,McLaren,Norris,4.38,5,1,McLaren,846,4,NOR,Norris,Belgium
+27,McLaren,Norris,3.33,17,1,McLaren,846,4,NOR,Norris,Belgium
+14,Mercedes,Hamilton,2.76,12,131,Mercedes,1,44,HAM,Hamilton,Belgium
+17,Mercedes,Hamilton,2.85,27,131,Mercedes,1,44,HAM,Hamilton,Belgium
+20,Mercedes,Hamilton,2.93,42,131,Mercedes,1,44,HAM,Hamilton,Belgium
+19,Mercedes,Russell,2.93,22,131,Mercedes,847,63,RUS,Russell,Belgium
+9,Red Bull,Verstappen,2.51,14,9,Red Bull,830,33,VER,Verstappen,Belgium
+5,Red Bull,Verstappen,2.38,30,9,Red Bull,830,33,VER,Verstappen,Belgium
+25,Red Bull,Perez,3.22,13,9,Red Bull,815,11,PER,Perez,Belgium
+2,Red Bull,Perez,2.24,29,9,Red Bull,815,11,PER,Perez,Belgium
+35,Williams,Albon,4.71,7,3,Williams,848,23,ALB,Albon,Belgium
+16,Williams,Albon,2.84,23,3,Williams,848,23,ALB,Albon,Belgium
+30,Williams,Sargeant,3.44,24,3,Williams,858,2,SAR,Sargeant,Belgium
+13,Williams,Sargeant,2.75,34,3,Williams,858,2,SAR,Sargeant,Belgium
+18,Williams,Albon,2.92,33,3,Williams,848,23,ALB,Albon,Belgium
+24,Williams,Sargeant,3.13,8,3,Williams,858,2,SAR,Sargeant,Belgium

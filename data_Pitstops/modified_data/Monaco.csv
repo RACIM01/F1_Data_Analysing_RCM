@@ -1,0 +1,37 @@
+pitstopId,Team,Driver,Time,Lap,constructorId,team,driverId,number,code,surname,Country
+31,Alfa Romeo,Bottas,8.4,51,51,Alfa Romeo,822,77,BOT,Bottas,Monaco
+20,Alfa Romeo,Zhou,3.42,52,51,Alfa Romeo,855,24,ZHO,Zhou,Monaco
+22,Alfa Romeo,Zhou,3.59,1,51,Alfa Romeo,855,24,ZHO,Zhou,Monaco
+35,AlphaTauri,Tsunoda,11.5,53,213,AlphaTauri,852,22,TSU,Tsunoda,Monaco
+25,Alpine,Ocon,4.27,32,214,Alpine,839,31,OCO,Ocon,Monaco
+5,Alpine,Ocon,2.56,54,214,Alpine,839,31,OCO,Ocon,Monaco
+7,Alpine,Gasly,2.58,47,214,Alpine,842,10,GAS,Gasly,Monaco
+30,Alpine,Gasly,7.79,54,214,Alpine,842,10,GAS,Gasly,Monaco
+4,Aston Martin,Alonso,2.47,54,117,Aston Martin,4,14,ALO,Alonso,Monaco
+16,Aston Martin,Alonso,3.01,55,117,Aston Martin,4,14,ALO,Alonso,Monaco
+11,Aston Martin,Stroll,2.67,51,117,Aston Martin,840,18,STR,Stroll,Monaco
+2,Ferrari,Leclerc,2.24,44,6,Ferrari,844,16,LEC,Leclerc,Monaco
+10,Ferrari,Leclerc,2.66,55,6,Ferrari,844,16,LEC,Leclerc,Monaco
+6,Ferrari,Sainz,2.56,55,6,Ferrari,832,55,SAI,Sainz,Monaco
+9,Ferrari,Sainz,2.64,33,6,Ferrari,832,55,SAI,Sainz,Monaco
+18,Haas,Hulkenberg,3.16,59,210,Haas,807,27,HUL,Hulkenberg,Monaco
+33,Haas,Hulkenberg,10.91,1,210,Haas,807,27,HUL,Hulkenberg,Monaco
+37,Haas,Magnussen,24.8,56,210,Haas,825,20,MAG,Magnussen,Monaco
+36,Haas,Hulkenberg,12.33,54,210,Haas,807,27,HUL,Hulkenberg,Monaco
+13,McLaren,Piastri,2.78,54,1,McLaren,857,81,PIA,Piastri,Monaco
+29,McLaren,Norris,6.36,54,1,McLaren,846,4,NOR,Norris,Monaco
+12,McLaren,Norris,2.76,50,1,McLaren,846,4,NOR,Norris,Monaco
+24,Mercedes,Hamilton,4.23,54,131,Mercedes,1,44,HAM,Hamilton,Monaco
+32,Mercedes,Russell,8.85,54,131,Mercedes,847,63,RUS,Russell,Monaco
+17,Mercedes,Hamilton,3.01,31,131,Mercedes,1,44,HAM,Hamilton,Monaco
+19,Red Bull,Perez,3.21,1,9,Red Bull,815,11,PER,Perez,Monaco
+34,Red Bull,Perez,11.01,34,9,Red Bull,815,11,PER,Perez,Monaco
+27,Red Bull,Perez,5.66,57,9,Red Bull,815,11,PER,Perez,Monaco
+21,Red Bull,Perez,3.44,70,9,Red Bull,815,11,PER,Perez,Monaco
+3,Red Bull,Verstappen,2.43,55,9,Red Bull,830,33,VER,Verstappen,Monaco
+1,Red Bull,Perez,2.15,53,9,Red Bull,815,11,PER,Perez,Monaco
+23,Williams,Sargeant,3.72,52,3,Williams,858,2,SAR,Sargeant,Monaco
+15,Williams,Sargeant,2.9,20,3,Williams,858,2,SAR,Sargeant,Monaco
+26,Williams,Albon,5.3,52,3,Williams,848,23,ALB,Albon,Monaco
+14,Williams,Albon,2.79,18,3,Williams,848,23,ALB,Albon,Monaco
+28,Williams,Sargeant,6.07,23,3,Williams,858,2,SAR,Sargeant,Monaco

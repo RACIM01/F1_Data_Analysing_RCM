@@ -1,0 +1,53 @@
+pitstopId,Team,Driver,Time,Lap,constructorId,team,driverId,number,code,surname,Country
+28,Alfa Romeo,Bottas,3.21,29,51,Alfa Romeo,822,77,BOT,Bottas,Saudi Arabia
+32,Alfa Romeo,Zhou,3.5,32,51,Alfa Romeo,855,24,ZHO,Zhou,Saudi Arabia
+38,Alfa Romeo,Zhou,3.84,12,51,Alfa Romeo,855,24,ZHO,Zhou,Saudi Arabia
+41,Alfa Romeo,Zhou,8.38,54,51,Alfa Romeo,855,24,ZHO,Zhou,Saudi Arabia
+18,Alfa Romeo,Bottas,2.81,11,51,Alfa Romeo,822,77,BOT,Bottas,Saudi Arabia
+22,AlphaTauri,de Vries,2.98,11,213,AlphaTauri,856,21,DEV,de Vries,Saudi Arabia
+21,AlphaTauri,de Vries,2.96,27,213,AlphaTauri,856,21,DEV,de Vries,Saudi Arabia
+39,AlphaTauri,Tsunoda,4.22,40,213,AlphaTauri,852,22,TSU,Tsunoda,Saudi Arabia
+11,AlphaTauri,Tsunoda,2.62,26,213,AlphaTauri,852,22,TSU,Tsunoda,Saudi Arabia
+31,AlphaTauri,Tsunoda,3.46,10,213,AlphaTauri,852,22,TSU,Tsunoda,Saudi Arabia
+37,Alpine,Gasly,3.79,9,214,Alpine,842,10,GAS,Gasly,Saudi Arabia
+19,Alpine,Gasly,2.88,25,214,Alpine,842,10,GAS,Gasly,Saudi Arabia
+17,Alpine,Gasly,2.8,40,214,Alpine,842,10,GAS,Gasly,Saudi Arabia
+51,Alpine,Ocon,22.04,32,214,Alpine,839,31,OCO,Ocon,Saudi Arabia
+50,Alpine,Ocon,19.59,15,214,Alpine,839,31,OCO,Ocon,Saudi Arabia
+45,Alpine,Ocon,10.95,0,214,Alpine,839,31,OCO,Ocon,Saudi Arabia
+15,Alpine,Ocon,2.76,12,214,Alpine,839,31,OCO,Ocon,Saudi Arabia
+7,Aston Martin,Stroll,2.48,30,117,Aston Martin,840,18,STR,Stroll,Saudi Arabia
+26,Aston Martin,Stroll,3.18,15,117,Aston Martin,840,18,STR,Stroll,Saudi Arabia
+12,Aston Martin,Alonso,2.64,34,117,Aston Martin,4,14,ALO,Alonso,Saudi Arabia
+33,Aston Martin,Alonso,3.5,14,117,Aston Martin,4,14,ALO,Alonso,Saudi Arabia
+1,Ferrari,Leclerc,2.22,13,6,Ferrari,844,16,LEC,Leclerc,Saudi Arabia
+20,Ferrari,Leclerc,2.96,33,6,Ferrari,844,16,LEC,Leclerc,Saudi Arabia
+3,Ferrari,Sainz,2.31,31,6,Ferrari,832,55,SAI,Sainz,Saudi Arabia
+4,Ferrari,Sainz,2.36,13,6,Ferrari,832,55,SAI,Sainz,Saudi Arabia
+35,Haas,Hulkenberg,3.61,11,210,Haas,807,27,HUL,Hulkenberg,Saudi Arabia
+49,Haas,Hulkenberg,15.39,26,210,Haas,807,27,HUL,Hulkenberg,Saudi Arabia
+27,Haas,Magnussen,3.2,29,210,Haas,825,20,MAG,Magnussen,Saudi Arabia
+30,Haas,Hulkenberg,3.36,40,210,Haas,807,27,HUL,Hulkenberg,Saudi Arabia
+23,Haas,Magnussen,3.07,40,210,Haas,825,20,MAG,Magnussen,Saudi Arabia
+25,Haas,Magnussen,3.15,15,210,Haas,825,20,MAG,Magnussen,Saudi Arabia
+47,McLaren,Norris,11.46,27,1,McLaren,846,4,NOR,Norris,Saudi Arabia
+46,McLaren,Norris,11.1,37,1,McLaren,846,4,NOR,Norris,Saudi Arabia
+44,McLaren,Norris,10.6,10,1,McLaren,846,4,NOR,Norris,Saudi Arabia
+43,McLaren,Norris,9.25,54,1,McLaren,846,4,NOR,Norris,Saudi Arabia
+42,McLaren,Norris,8.78,47,1,McLaren,846,4,NOR,Norris,Saudi Arabia
+52,McLaren,Piastri,42.57,0,1,McLaren,857,81,PIA,Piastri,Saudi Arabia
+48,McLaren,Norris,11.77,17,1,McLaren,846,4,NOR,Norris,Saudi Arabia
+40,Mercedes,Russell,5.04,13,131,Mercedes,847,63,RUS,Russell,Saudi Arabia
+10,Mercedes,Russell,2.55,31,131,Mercedes,847,63,RUS,Russell,Saudi Arabia
+9,Mercedes,Hamilton,2.53,30,131,Mercedes,1,44,HAM,Hamilton,Saudi Arabia
+5,Mercedes,Hamilton,2.4,12,131,Mercedes,1,44,HAM,Hamilton,Saudi Arabia
+14,Red Bull,Perez,2.74,34,9,Red Bull,815,11,PER,Perez,Saudi Arabia
+6,Red Bull,Perez,2.43,17,9,Red Bull,815,11,PER,Perez,Saudi Arabia
+8,Red Bull,Verstappen,2.5,36,9,Red Bull,830,33,VER,Verstappen,Saudi Arabia
+2,Red Bull,Verstappen,2.25,14,9,Red Bull,830,33,VER,Verstappen,Saudi Arabia
+29,Williams,Sargeant,3.21,40,3,Williams,858,2,SAR,Sargeant,Saudi Arabia
+24,Williams,Albon,3.1,11,3,Williams,848,23,ALB,Albon,Saudi Arabia
+16,Williams,Albon,2.78,26,3,Williams,848,23,ALB,Albon,Saudi Arabia
+13,Williams,Albon,2.64,40,3,Williams,848,23,ALB,Albon,Saudi Arabia
+36,Williams,Sargeant,3.65,12,3,Williams,858,2,SAR,Sargeant,Saudi Arabia
+34,Williams,Sargeant,3.57,30,3,Williams,858,2,SAR,Sargeant,Saudi Arabia

@@ -1,14 +1,4 @@
 
 *.sqlite
 *.ff1pkl
-*.sqlite
-*.sqlite
-*.sqlite
-*.sqlite
-*.sqlite
 cache/fastf1_http_cache.sqlite
-*.sqlite
-*.sqlite
-*.sqlite
-cache/fastf1_http_cache.sqlite
-*.sqlite

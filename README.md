@@ -22,7 +22,7 @@ The project is still under development, but the goal is to create a comprehensiv
 
 Potential use cases
 
-The project's findings could be used by Formula 1 teams to improve their performance, by fans to better understand the sport, and by bookmakers to set odds on races.
+The project's findings could be used by fans to better understand the sport, and by bookmakers to set odds on races.
 
 Contributing
 

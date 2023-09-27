@@ -24,6 +24,17 @@ Potential use cases
 
 The project's findings could be used by fans to better understand the sport, and by bookmakers to set odds on races.
 
+Graph Plot : 
+### Gap to race winner
+![2023_Japanese Grand Prix_GapRaceWinner](https://github.com/RACIM01/F1_Data_Analysing_RCM/assets/113592369/4b07652f-c955-4a12-8bb0-66cdaf972441)
+
+### Race Pace 
+![2023_Japanese Grand Prix_RacePace_comparison](https://github.com/RACIM01/F1_Data_Analysing_RCM/assets/113592369/f9beac9c-d452-4ce9-a968-dcd37d24dc1d)
+
+### Tires Strategy 
+![2023_Japanese Grand Prix_Tires_Strategy](https://github.com/RACIM01/F1_Data_Analysing_RCM/assets/113592369/dea66161-dcd7-409f-93f5-e4b3ae9e0fee)
+
+
 Contributing
 
 This project is open source and anyone is welcome to contribute. If you are interested in using the FastF1 API to analyze Formula 1 data, I encourage you to fork this repository and start coding!

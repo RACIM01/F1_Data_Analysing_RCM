@@ -2,3 +2,4 @@
 *.sqlite
 *.ff1pkl
 cache/fastf1_http_cache.sqlite
+*.sqlite

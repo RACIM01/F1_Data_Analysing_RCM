@@ -3,3 +3,6 @@
 *.ff1pkl
 cache/fastf1_http_cache.sqlite
 *.sqlite
+*.png
+*.sqlite
+Useful_Fct.ipynb

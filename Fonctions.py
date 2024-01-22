@@ -170,4 +170,40 @@ def CompoundColorDf():
         columns=['Compound', 'CompoundColor']
     )
 
+def Time3(time):
+
+    """
+    This function returns the time with 3 decimals
+    
+    args:
+        time (float): time in seconds
+    
+    returns:
+        time (str): time with 3 decimals
+    
+    """
+    return "{:.3f}".format(time)
+
+def DeltaToMinutes(delta_time):
+
+    """
+    Converts a timedelta to a string in the format mm:ss.fff
+
+    args:
+        delta_time: a timedelta object
+    
+    returns:
+        a string in the format mm:ss.fff
+    """
+    # Convert to milliseconds
+    ms = delta_time.total_seconds() * 1000
+
+    # Convert to minutes and seconds
+    minutes = int(ms // 60000)
+    seconds = int((ms % 60000) // 1000)
+    ms = int(ms % 1000)
+
+    # Format the string
+    return f"{minutes:02}:{seconds:02}.{ms:03}"
+
 print('Done')
